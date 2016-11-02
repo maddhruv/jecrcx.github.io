@@ -1,0 +1,57 @@
+var st = [
+    {
+        "timestamp": "2016-11-12T13:37:07.232Z",
+        "emailAddress": "dhruvjainpenny@gmail.com",
+        "fullName": "Dhruv Jain",
+        "chooseYourUsername": "midhruvjaink",
+        "primaryEmailAddress": "dhruvjainpenny@gmail.com",
+        "dateOfBirth": "1997-12-21",
+        "branch": "Computer Science",
+        "yearOfAdmission": 2015,
+        "interests": "xyz, ",
+        "hobbies": "programming, developing,",
+        "chooseYourProfileColorPreference": "dhruv",
+        "skills": "nothing,",
+        "photoUrl": "https://avatars0.githubusercontent.com/u/18121502?v=3&s=466"
+    },
+    {
+        "timestamp": "2016-11-12T13:43:51.500Z",
+        "emailAddress": "shubham08111997@gmail.com",
+        "fullName": "Shubham Jindal",
+        "chooseYourUsername": "shubhamjindal",
+        "primaryEmailAddress": "shubham08111997@gmail.com",
+        "dateOfBirth": "1997-11-08",
+        "branch": "Computer Science",
+        "yearOfAdmission": 2015,
+        "interests": "Blogging,",
+        "skills": "C/C++,",
+        "photoUrl": "https://pbs.twimg.com/profile_images/626750855748792320/Sp6sVocT.jpg"
+    },
+    {
+        "timestamp": "2016-11-12T14:53:47.783Z",
+        "emailAddress": "prateek.vijayudr27@gmail.com",
+        "fullName": "Prateek Vijayvergiya",
+        "chooseYourUsername": "prateekvijayvergiya",
+        "branch": "Computer Science",
+        "yearOfAdmission": 2015,
+        "interests": "Acting,",
+        "hobbies": "Cricket,",
+        "skills": "C++",
+        "photoUrl": "https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/12439092_1156014694443595_7148358594309138515_n.jpg?oh=b63ee1623be5cd6a9a177c9968646066&oe=58C6075C",
+        "chooseYourProfileColorPreference": "cyan"
+    },
+    {
+        "timestamp": "2016-11-12T16:36:07.482Z",
+        "emailAddress": "hemendrasingh66@gmail.com",
+        "fullName": "Hemendra Singh",
+        "chooseYourUsername": "hemendra.singh",
+        "branch": "Electrical Engineering",
+        "yearOfAdmission": 2014,
+        "interests": "TV Series, Songs, Singing,",
+        "skills": "Singing, ",
+        "photoUrl": "https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/11224208_1017945394946811_7285587965811683163_n.jpg?oh=57eb188cb45e2846a3b92ed064ec9a0d&oe=588F37C2",
+        "chooseYourProfileColorPreference": "light-blue",
+        "facebookProfileUrl": "https://www.facebook.com/hemendrasingh66",
+        "instagramProfileUrl": "https://instagram.com/hemendra.singh"
+    }
+]

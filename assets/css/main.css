@@ -1,0 +1,35 @@
+#nav-mobile a:hover{
+	color: #263238;
+	background-color: #eceff1;
+}
+#nav-mobile a:hover{
+	color: #263238;	
+}
+.nav-wrapper{
+	height: 20px;
+}
+.mainNav{
+	height: 40px;
+	position: fixed;
+}
+.mainNav a{
+	font-size: 22px;
+	color: #990000;
+	border-right: 1px solid #99000;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+.mainNav a:hover{
+	background-color: #cfd8dc;
+	z-index: 1;
+}
+.cover{
+	margin-top: 5px;
+}
+.box{
+	height: 222px;
+	padding-top: 10px;
+}
+.icons{
+	padding-top: 10px;
+}
