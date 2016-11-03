@@ -3,7 +3,7 @@ function getEl(id, value){
 }
 	var results=[];
 	var id = window.location.href;
-	id = id.substring(67, id.length);
+	id = id.substring(55, id.length);
 	for (var i=0 ; i < st.length; i++)
 	{
 	    if (st[i].chooseYourUsername == id) {
