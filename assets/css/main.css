@@ -12,12 +12,15 @@
 	height: 40px;
 	position: fixed;
 }
+.brand-text{
+	font-weight: bold;
+	font-size: 40px;
+	padding-left: 10px;
+}
 .mainNav a{
 	font-size: 22px;
 	color: #990000;
 	border-right: 1px solid #99000;
-	margin-left: 70px;
-	margin-right: 70px;
 }
 .mainNav a:hover{
 	background-color: #cfd8dc;
