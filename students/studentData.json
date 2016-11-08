@@ -53,5 +53,19 @@ var st = [
         "chooseYourProfileColorPreference": "light-blue",
         "facebookProfileUrl": "https://www.facebook.com/hemendrasingh66",
         "instagramProfileUrl": "https://instagram.com/hemendra.singh"
+    },
+    {
+        "timestamp": "2016-11-13T15:44:41.359Z",
+        "emailAddress": "sanyamjaino98@gmail.com",
+        "fullName": "Sanyam Jain",
+        "chooseYourUsername": "sanyamsj",
+        "branch": "Computer Science",
+        "yearOfAdmission": 2015,
+        "skills": "C/C++, CSS, ",
+        "photoUrl": "https://scontent.fbom3-1.fna.fbcdn.net/v/t1.0-9/12417714_548229195339326_4909997612615144092_n.jpg?oh=8ba97aba8111ab6a4689aa793a7299dd&oe=58C4D45D",
+        "chooseYourProfileColorPreference": "lime",
+        "facebookProfileUrl": "https://www.facebook.com/sanyam.jain.963871",
+        "instagramProfileUrl": "https://instagram.com/mic.scofield",
+        "twitterProfileUrl": "http://twitter.com/sanyamsj"
     }
 ]
