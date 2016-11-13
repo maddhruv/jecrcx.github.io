@@ -1,0 +1,45 @@
+.topNav{
+	padding-top: 1px;
+}
+.head{
+	padding-left: 50px;
+	padding-bottom:10px;
+}
+.topX{
+	padding-top: 110px;
+	font-size: 40px;
+	height: 180px;
+}
+.branch{
+	font-size: 14px;
+}
+.avatar{
+	padding-top: 50px;
+	padding-right: 50px;
+	float: right;
+}	
+.X{
+	padding-top: 100px;
+}
+.cardX{
+	font-weight: bold;
+	padding: 8px;
+}
+.dhruv{
+	background-image: url("../assets/img/students/midhruvjainkCover.jpg");
+}
+.dhruvBody{
+	background-color: #30393A;
+}
+.registerNav{
+	font-size: 28px;
+	padding-left: 10px;
+}
+.formX{
+	padding-top: 120px;
+}
+.registerBtn{
+	margin-top: 100px;
+	height: 40px;
+	font-size: 24px;
+}
