@@ -1,0 +1,25 @@
+.head{
+	height: 40px;
+	font-size: 26px;
+	padding-left: 10px;
+}
+.infoHead{
+	height: 60px;
+	font-size: 32px;
+	padding-left: 10px;	
+}
+.infoBody{
+	padding-top: 40px;
+}
+.btnX{
+	height: 40px;
+	width: 100px;
+}
+.yearHead{
+	height: 50px;
+	font-size: 28px;
+	padding-left: 10px;
+}
+.cseBody{
+	padding-top: 40px;
+}
